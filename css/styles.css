@@ -88,7 +88,7 @@ ul {
 }
 .adress {
   font-style: normal;
-  font-family: Roboto;
+
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
@@ -104,38 +104,26 @@ ul {
 .adress:focus {
   color: #404bbf;
 }
-.esfyb {
-  /*background-color: #2E2F42;
-    font-family: "Roboto",
-        sans-serif;
-    font-weight: 700;
-    font-size: 56px;
-    line-height: 1.07;
-    letter-spacing: 0.02em;
-    color: #4d5ae5;
-     */
+.hero {
   background-color: #2e2f42;
   max-width: 1440px;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
   padding: 188px 0 188px;
-  /*  padding-top: 188px;
-  padding-bottom: 188px; */
 }
-.esfyb .container {
+.hero .container {
   max-width: 1158px;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
 }
-.esfyb .secpads {
+.hero .secpads {
   padding: 188px 0 188px;
 }
-.esfybtxt {
+.nazwa {
   line-height: 1.07;
   color: #ffffff;
-  font-family: Roboto;
   font-size: 56px;
   font-weight: 700;
   letter-spacing: 0.02em;
@@ -144,25 +132,7 @@ ul {
   margin-left: auto;
   margin-right: auto;
 }
-.esfybbutton {
-  /* background-color: #4d5ae5;
-  color: #ffffff;
-  font-family: 'Roboto', sans-serif;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  text-align: left;
-  cursor: pointer;
-  display: block;
-  min-width: 169px;
-  height: 56px;
-  border: none;
-  border-radius: 4px;
-  padding: 16px 32px;
-  margin-left: auto;
-  margin-right: auto; */
-
+.herobutton {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -179,15 +149,14 @@ ul {
   margin-left: auto;
   margin-right: auto;
 }
-.esfybbutton:hover {
+.herobutton:hover {
   background-color: #404bbf;
 }
-.esfybbutton:focus {
+.herobutton:focus {
   background-color: #404bbf;
 }
 .nullseen {
   color: #2e2f42;
-  font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -304,7 +273,7 @@ ul {
 }
 .items {
   color: #2e2f42;
-  font-family: Roboto;
+
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -313,7 +282,6 @@ ul {
   margin-bottom: 8px;
 }
 .itemsp {
-  font-family: Roboto;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
